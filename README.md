@@ -2,7 +2,7 @@
 Creating a small quiz in PYTHON in 3 minutes just for training if, else and functions.
 
 ## :camera_flash: Screenshoots
-<img src="/imgquiz1.png" width="260">&emsp;<img src="/imgquiz2.png" width="260">&emsp;
+<img src="/img1.png" width="260">&emsp;<img src="/img2.png" width="260">&emsp;<img src="/img3.png" width="260">&emsp;
 
 ## Technologies
 * Python 100%
